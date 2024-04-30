@@ -1,0 +1,9 @@
+{
+  "network_identifier": {
+    "blockchain": "cardano",
+    "network": "{{networkId}}"
+  },
+  "block_identifier": {
+    "index": 2134261
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "network_identifier": {
+    "blockchain": "cardano",
+    "network": "preprod"
+  },
+  "public_key": {
+    "hex_bytes": "d498c3d54941e01cbcfb565371a844f1342edee82795ef5297de45be3acb19d8",
+    "curve_type": "edwards25519"
+  },
+  "metadata": {
+    "address_type": "Base",
+    "staking_credential": {
+      "hex_bytes": "43d39a2ac216e5468d4f19541c204df47a7721c4f3b0b40dc6d290e53cb45ffe",
+      "curve_type": "edwards25519"
+    }
+  }
+}
